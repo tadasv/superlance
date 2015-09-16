@@ -2,6 +2,7 @@
 env*/
 dist/
 docs/_build/
+build/
 *.egg
 *.egg-info
 *.pyc
